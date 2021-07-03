@@ -1,0 +1,10 @@
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.exe
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.deps.json
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.runtimeconfig.json
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.runtimeconfig.dev.json
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.dll
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\bin\Debug\netcoreapp3.1\Shamir_Group_Protocol.pdb
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\obj\Debug\netcoreapp3.1\Shamir_Group_Protocol.AssemblyInfoInputs.cache
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\obj\Debug\netcoreapp3.1\Shamir_Group_Protocol.AssemblyInfo.cs
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\obj\Debug\netcoreapp3.1\Shamir_Group_Protocol.dll
+C:\WORKSPACE\Krypto\Shamir_Group_Protocol\obj\Debug\netcoreapp3.1\Shamir_Group_Protocol.pdb

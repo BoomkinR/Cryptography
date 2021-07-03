@@ -1,0 +1,11 @@
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.exe
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.deps.json
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.runtimeconfig.json
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.runtimeconfig.dev.json
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.dll
+C:\WORKSPACE\Krypto\Randomfind\bin\Debug\netcoreapp3.1\Randomfind.pdb
+C:\WORKSPACE\Krypto\Randomfind\obj\Debug\netcoreapp3.1\Randomfind.csprojAssemblyReference.cache
+C:\WORKSPACE\Krypto\Randomfind\obj\Debug\netcoreapp3.1\Randomfind.AssemblyInfoInputs.cache
+C:\WORKSPACE\Krypto\Randomfind\obj\Debug\netcoreapp3.1\Randomfind.AssemblyInfo.cs
+C:\WORKSPACE\Krypto\Randomfind\obj\Debug\netcoreapp3.1\Randomfind.dll
+C:\WORKSPACE\Krypto\Randomfind\obj\Debug\netcoreapp3.1\Randomfind.pdb

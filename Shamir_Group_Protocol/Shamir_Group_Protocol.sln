@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shamir_Group_Protocol", "Shamir_Group_Protocol.csproj", "{57595030-2D0C-4DC0-8F9E-6433200F0265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGP_Client", "..\SGP_Client\SGP_Client.csproj", "{4A41D836-F66C-466B-AF3B-EFF02D3B6FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57595030-2D0C-4DC0-8F9E-6433200F0265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57595030-2D0C-4DC0-8F9E-6433200F0265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57595030-2D0C-4DC0-8F9E-6433200F0265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57595030-2D0C-4DC0-8F9E-6433200F0265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A41D836-F66C-466B-AF3B-EFF02D3B6FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A41D836-F66C-466B-AF3B-EFF02D3B6FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A41D836-F66C-466B-AF3B-EFF02D3B6FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A41D836-F66C-466B-AF3B-EFF02D3B6FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECDB74B-ADA4-4A0D-BD0C-860454DFE856}
+	EndGlobalSection
+EndGlobal
